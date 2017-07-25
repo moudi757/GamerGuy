@@ -1,0 +1,23 @@
+#This python script is called GamerGuy
+#by: Mahmoud Chebbani
+
+#The script uses SQLAlchemy to interact with a MySQL Database
+#You will also find attached a copy of the database (gamerguy.sql)
+##Steps:
+	*Downloaded SQLAlchemy using pip through "pip install sqlalchemy" command and worked with SQLAlchemy 1.1
+	*Downloaded pymysql using pip as well
+	*Downloaded github and git shell from github.com
+
+##Problems:
+	-There were not really problems with the installation and the documentation was clear 
+
+##Descisions:
+	-Having learned what SQLAlchemy is and how it works and with what it works, I decided to go with writting
+	 OOP python directly without the use of frameworks (example: Flask) and I decided to work with MySQL databse
+	 as I had plenty experience working with it before
+
+##Possible Improvments:
+	- The script is simple and simulates a real life small example of what could be a bigger project and I think that 
+	  with the flexibality of time, GUIs would have been great and the room for creating a fully function system is 
+	  is very huge. 
+	- The script attached simulates only a small portion of a bigger picture
