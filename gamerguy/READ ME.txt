@@ -2,11 +2,21 @@
 #by: Mahmoud Chebbani
 
 #The script uses SQLAlchemy to interact with a MySQL Database
-#You will also find attached a copy of the database (gamerguy.sql)
+
+##Required installations to execute the script:
+	*Install Appache Server through XAMPP (this script is tested with version XAMPP version 5.6.31 for Windows)
+	*Install pythnon version 3.5.2 
+	*Install pymysql 
+	*Install SQLAlchemy using pip through "pip install sqlalchemy" (this script was created with SQLAlchemy 1.1)
+	*To execute the script simply run it in the command line, hardcoded information will be inserted into database
+	 and example of queries should be viewed in the command line screen
+ 
+
 ##Steps:
 	*Downloaded SQLAlchemy using pip through "pip install sqlalchemy" command and worked with SQLAlchemy 1.1
 	*Downloaded pymysql using pip as well
 	*Downloaded github and git shell from github.com
+
 
 ##Problems:
 	-There were not really problems with the installation and the documentation was clear 
